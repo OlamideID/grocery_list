@@ -1,10 +1,9 @@
-// lib/main.dart
 import 'package:flutter/material.dart';
 import 'package:grocery_list/themes/dark.dart';
 import 'package:grocery_list/themes/light.dart';
 import 'package:grocery_list/widgets/grocery_list.dart';
 
-void main() {
+main() {
   runApp(const MyApp());
 }
 
